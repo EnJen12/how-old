@@ -2,6 +2,16 @@ body {
   margin: 0;
   padding: 0;
   font-family: Helvetica, sans-serif;
-  background-color: #323639;
-}
+  /*background-color: #c5a0b9; */
 
+  /* background: linear-gradient(
+    to bottom,
+    red,
+    rgba(255, 0, 0, 0)
+  ) */
+
+  background: #648880;
+  background: linear-gradient(to right, #f6f1d3, #be9aab 85%, #c76696);
+  
+  
+}
